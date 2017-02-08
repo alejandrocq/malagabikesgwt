@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to='malagabikesgwt'>
+    <inherits name='com.google.gwt.user.User'/>
+    <inherits name='com.google.gwt.user.theme.standard.Standard'/>
+
+    <!--Libraries-->
+    <inherits name="com.intendia.gwt.autorest.AutoRest"/>
+
+    <entry-point class='com.alejandro_castilla.malagabikesgwt.client.App'/>
+    <source path='client'/>
+</module>
